@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/local/mnt/workspace/editor/nvim/lua/nvim_conf'
+let g:netrw_dirhist_9='/local/mnt/workspace/editor/nvim'
+let g:netrw_dirhist_8='/local/mnt/workspace/editor/nvim/after/plugin'
+let g:netrw_dirhist_7='/local/mnt/workspace/editor/nvim/lua/nvim_conf'
+let g:netrw_dirhist_6='/local/mnt/workspace/editor/nvim/lua'
+let g:netrw_dirhist_5='/local/mnt/workspace/editor/nvim'
+let g:netrw_dirhist_4='/local/mnt/workspace/editor/nvim/after/plugin'
+let g:netrw_dirhist_3='/local/mnt/workspace/editor/nvim/after'
+let g:netrw_dirhist_2='/local/mnt/workspace/editor/nvim'
+let g:netrw_dirhist_1='/local/mnt/workspace/editor/nvim/plugin'
